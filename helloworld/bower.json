@@ -1,0 +1,20 @@
+{
+  "name": "helloworld",
+  "description": "hello world with typescript",
+  "main": "app.js",
+  "authors": [
+    "thomas"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/bltomtom/TypeScript",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "moment": "^2.13.0"
+  }
+}
